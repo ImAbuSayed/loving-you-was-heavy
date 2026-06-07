@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Loving You Was Heavy
+
+This log tracks the cryptographic history and versioning for the song **Loving You Was Heavy** (loving-you-was-heavy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T14:37:26.498711 | `v1` | `47c49be74551e5f9cc8bcbf1806b6ba070796be8342d51f8d55025fc937e76b3` | `60dd498adb0334977de4bdac5ac32050dc5fdc998016d6dcc8b3d87ace135944` | `2026-06-07_loving-you-was-heavy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
