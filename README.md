@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/loving-you-was-heavy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Loving You Was Heavy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/loving-you-was-heavy/) |
+| **Get License** | [Official Music Licensing for Loving You Was Heavy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/loving-you-was-heavy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still feel the weight of you across my open chest
+> A sweet kind of burden that would never let me rest
+> Every single time you moved, you pulled me to the ground
+> Loving you was heavy, but the best I've ever found
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
